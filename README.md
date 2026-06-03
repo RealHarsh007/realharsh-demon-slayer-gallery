@@ -4,7 +4,7 @@
 A responsive anime image gallery built using HTML, CSS, and JavaScript.
 
 ## Demo
-🔗 [Live Demo]https://realharsh-demonslayergallery.netlify.app/
+🔗 [Live Demo](https://realharsh-demonslayergallery.netlify.app/
 
 ## Features
 - Responsive gallery layout
